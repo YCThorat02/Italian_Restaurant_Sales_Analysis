@@ -3,7 +3,7 @@
 # Summary
 Leveraging Tableau, this project explores sales dynamics across menu categories, time intervals, customer segments, and payment methods. The goal is to optimize menu engineering, drive customer retention, and maximize revenue opportunities.
 ____________________________________________________________________________________________________________________________________________________
-## Key Business Insights
+## 🧠 Key Business Insights
  
 ### 1.Revenue Performance:
 Total Revenue Trends indicate a strong positive growth, with weekend evenings contributing the largest share.
@@ -27,7 +27,7 @@ Off-peak windows represent potential for discounts or loyalty incentives to incr
 Credit card usage dominates, followed by cash payments.
 Gradual adoption of digital wallets suggests an opportunity to expand contactless options and loyalty integration.
 __________________________________________________________________________________________________________________________________________
-## Strategic Recommendations
+## 💡 Strategic Recommendations
 
 ### Menu Engineeri
 Focus on promoting high-margin items within the top-selling categories.
@@ -43,6 +43,18 @@ Use time-series forecasting for better procurement.
 ### Marketing Optimization
 Target first-time visitors with weekend lunch deals to convert them into loyal customers.
 Promote mobile payment options and integrate digital discounts via QR codes.
+_______________________________________________________________________________________________________________________________________________________________
+### 📋 Sales Performance Analysis:
+
+This Tableau project analyzes sales data from an Italian restaurant to uncover key trends in revenue, customer behavior, and menu performance. The dashboard highlights peak sales hours, top-selling items, and customer segmentation insights. Credit card payments dominate, and returning customers contribute significantly more revenue. These insights can support better menu decisions, targeted marketing, and operational efficiency.
+____________________________________________________________________________________________________________________________________________
+
+### Tools Used 
+# Tableau
+"C:\Users\priyanka\Pictures\Tableau-Logo.png"
+
+
+
 
 
 
