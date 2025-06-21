@@ -1,6 +1,6 @@
 # Italian_Restaurant_Sales_Analysis
 
-# Summary
+# 🔍 Summary
 Leveraging Tableau, this project explores sales dynamics across menu categories, time intervals, customer segments, and payment methods. The goal is to optimize menu engineering, drive customer retention, and maximize revenue opportunities.
 ____________________________________________________________________________________________________________________________________________________
 ## 🧠 Key Business Insights
